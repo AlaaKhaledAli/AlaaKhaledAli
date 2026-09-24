@@ -1,31 +1,9 @@
-<h3 align="center">
-  Welcome to Alaa Khaled's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Django+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
-</p> 
-
-- 🏢 I'm a Full-Stack developer
-- 👨‍💻 As a Computer Engineer, I'm constantly learning to improve my skills.
+<h3 align="center"> Welcome to Alaa Khaled's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h3> <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Full-Stack+Developer;Always+learning+new+things" alt="Typing SVG" /> </a> </p> - 🏢 I'm a Full-Stack developer - 👨‍💻 As a Computer Engineer, I'm constantly learning to improve my skills.
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/alaakhaledali/" target="_blank"><img src="https://img.shields.io/badge/-Alaa%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=#fff"/></a>
 
+
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![Odoo](https://img.shields.io/badge/-Odoo-05122A?style=flat&logo=odoo&logoColor=white)&nbsp; ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp; ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp; ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E4)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=38BDF8)&nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp; ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
